@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Pro),[AttributeDecl(Instance,VarDecl(Id(a),IntType,IntLit(1))),AttributeDecl(Instance,VarDecl(Id(b),FloatType,FloatLit(1.5))),MethodDecl(Id(draw),Instance,[],Block([VarDecl(Id(c),IntType),AssignStmt(Id(c),FieldAccess(Self(),Id(a)))]))])])

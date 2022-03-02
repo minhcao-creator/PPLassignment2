@@ -1,0 +1,12 @@
+  Class a: Parent{
+            main(){
+                Self.a= 2+3;
+            }
+            Constructor(a:Int){
+                Self.print(a);
+            }
+            Destructor(){
+                Self.delete(Self);
+            }
+        }
+        

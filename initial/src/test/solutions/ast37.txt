@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Pro),[MethodDecl(Id($main),Static,[],Block([If(Id(a),Block([For(Id(a),Id(b),Id(c),IntLit(2),Block([Return()])])]),If(Id(b),Block([For(Id(a),Id(b),Id(c),BinaryOp(+,UnaryOp(!,Id(a)),Id(c)),Block([Return()])])])))]))])])

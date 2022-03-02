@@ -1,0 +1,13 @@
+
+        Class Program{
+            $B(){
+                Val a:Int = A[1+2][3+4][A[1][2][3]];
+            }
+            $A(){
+            }
+            main(){
+                Val a:Int = A::$B();
+            }
+        }
+
+        

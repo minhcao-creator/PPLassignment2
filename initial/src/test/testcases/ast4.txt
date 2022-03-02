@@ -1,0 +1,4 @@
+Class Program: parent {}
+                Class Pro2: par2 {
+                    Var a : Int;
+                }

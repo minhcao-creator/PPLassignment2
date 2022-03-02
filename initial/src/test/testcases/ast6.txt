@@ -1,0 +1,4 @@
+Class Program: parent {}
+                Class Pro3 {
+                    Var a,b,c,d : Float = 3,5,7,9;
+                }

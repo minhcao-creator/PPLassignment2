@@ -1,0 +1,11 @@
+
+            Class Polygon {
+                Var $a:Int = 1;
+                Var b:Float = 1.5;
+                draw() {
+                    r = 2.0;
+                    Var a, b: Array[Int, 5];
+                    s = r * r * Self.myPI;
+                    a[0] = s;
+                }
+            }

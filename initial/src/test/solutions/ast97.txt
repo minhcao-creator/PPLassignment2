@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(A),[AttributeDecl(Instance,ConstDecl(Id(a),ArrayType(273,IntType),BinaryOp(+,IntLit(1),IntLit(1)))),AttributeDecl(Instance,ConstDecl(Id(b),ArrayType(273,IntType),StringLit(Hello World))),AttributeDecl(Instance,ConstDecl(Id(c),ArrayType(273,IntType),CallExpr(Self(),Id(a),[]))),MethodDecl(Id(main),Instance,[],Block([Return()]))])])

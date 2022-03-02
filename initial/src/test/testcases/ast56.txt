@@ -1,0 +1,8 @@
+
+                Class Program{
+                    Var i:Array[Int,3];
+                    main() {
+                        Foreach(i In 0 .. 20) {}
+                    } 
+                }
+                

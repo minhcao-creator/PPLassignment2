@@ -1,0 +1,12 @@
+ 
+            Class Ab {
+                main(Minh: String){
+                    abc = "how to do?";
+                }
+                Val Minh : Boolean = False;
+                main(){
+                    abc = cbd.bcd;
+                }
+                Var b : Boolean = False;
+            }
+            

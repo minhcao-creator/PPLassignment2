@@ -1,0 +1,17 @@
+ 
+        Class Program{
+            main(){
+                {
+                    {
+                        c = Array(Null, Null, Null);
+                        d = Array();
+                    }
+                }
+                {
+                    Return;
+                    Continue;
+                    Break;
+                }
+            }
+        }
+        

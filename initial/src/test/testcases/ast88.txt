@@ -1,0 +1,6 @@
+ Class Pro3 {
+                    main() {}
+                    func() {}
+                    Constructor() {}     
+                    Destructor() {}           
+                }

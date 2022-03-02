@@ -1,0 +1,9 @@
+
+        Class A{
+            $_(){
+                Foreach(a In 1.e+2..12.4E-12){
+                    Out.printInt(a,b,c);
+                }
+            }
+        }
+        

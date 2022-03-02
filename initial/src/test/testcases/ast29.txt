@@ -1,0 +1,7 @@
+ Class Pro3 { 
+                    $main() {
+                        Return a;
+                        s = Self + (Array(Null, Self, a ==. b)) + Null;
+                        Return Self + (Array(Null, Self, a ==. b)) + Null;
+                    }     
+                }

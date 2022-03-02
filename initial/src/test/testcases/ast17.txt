@@ -1,0 +1,6 @@
+ Class Pro3 { 
+                    main() {
+                        Val c: String = "minhcao";
+                        Var c,d: Float = 0x0, 1.23e+9;
+                    }             
+                }

@@ -1,0 +1,16 @@
+Class Student{
+            Var name, mssv: String;
+            Constructor(_name, _mssv: String){
+                Self.name = _name;
+                Self.mssv = _mssv;
+            }
+            print(){
+                Out.print("name: " + name + "\nmssv: " + mssv);
+            }
+        }
+        Class Program{
+            main(){
+                Var stu: Student = New Student("Minh Cao", "1813061");
+            }
+        }
+        

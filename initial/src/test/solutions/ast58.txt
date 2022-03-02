@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Polygon),Id(Shape),[MethodDecl(Id(Constructor),Instance,[param(Id(a),IntType),param(Id(b),IntType),param(Id(c),FloatType),param(Id(d),FloatType)],Block([])),MethodDecl(Id(Constructor),Instance,[],Block([])),MethodDecl(Id(Destructor),Instance,[],Block([])),MethodDecl(Id(Destructor),Instance,[],Block([]))])])

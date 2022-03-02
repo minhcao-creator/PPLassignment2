@@ -1,0 +1,7 @@
+ Class Pro { 
+                    $main() {
+                        Foreach (a In b .. c) {
+                            Return;
+                        }
+                    }
+                }

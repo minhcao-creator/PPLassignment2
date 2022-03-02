@@ -1,0 +1,13 @@
+Class Main{
+            Var main: Main;
+            main(){
+            }
+            Constructor(main: Main){}
+            Destructor(){}
+        }
+        Class Program{
+            main(){
+                a = New Main(New Main());
+                a.main();
+            }
+        }

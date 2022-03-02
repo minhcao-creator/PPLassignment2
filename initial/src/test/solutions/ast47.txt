@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(isSymmetric),Instance,[param(Id(arr),ArrayType(1000,ArrayType(1000,IntType))),param(Id(row),IntType),param(Id(col),IntType)],Block([For(Id(row),IntLit(0),IntLit(1000),IntLit(1),Block([])]),Return(BooleanLit(True))]))])])

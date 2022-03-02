@@ -1,0 +1,7 @@
+ Class Pro { 
+                    $main() {
+                        If (a < b + c * d && e) {
+                            Return;
+                        }
+                    }
+                }

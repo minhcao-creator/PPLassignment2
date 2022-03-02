@@ -1,0 +1,17 @@
+
+        Class Program
+        {
+            main()
+            {
+                Var arr: Array[Int, 5] = Array(9, 2, 8, 4, 1);
+                Var sorts: Sorting = New Sorting();
+
+                Foreach(i In 0 .. Sys.size_of(arr.to_int())/4)
+                {
+                    sorts.add(arr[i]);
+                }
+
+                sorts.bubbleSort();
+            }
+        }
+                

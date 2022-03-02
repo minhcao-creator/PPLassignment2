@@ -1,0 +1,13 @@
+ 
+            Class Pro {
+                Var Ha:Int = k.s() - k::$a("a") * k.e[2][4];
+                $lala(bcd: Int; _at: Float){
+                    Return (bcd * _at) && (bcd/_at);
+                }
+                $main(n:p){
+                    Return n;
+                    Break;
+                    Continue;
+                }
+            }
+            

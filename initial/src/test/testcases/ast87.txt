@@ -1,0 +1,10 @@
+
+                Class Program{
+                    main() {
+                        Var i,j,k:Float = 0.,1.,1.12;
+                        Val a,b,c:Float = 1.e9,1.e-0,1.e1-2;
+                        Val f,g,h:Float = 0.e12,1.e-12,10.e+5;
+                        Var d,e:Float = .1e9,.2e-8;
+                    } 
+                }
+                

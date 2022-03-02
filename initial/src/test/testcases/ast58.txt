@@ -1,0 +1,7 @@
+Class Polygon : Shape {
+            Constructor(a,b:Int;c,d:Float) {}
+            Constructor() {}
+            Destructor() {}
+            Destructor() {}
+        }
+        

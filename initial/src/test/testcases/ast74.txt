@@ -1,0 +1,16 @@
+Class Sort {
+                Var a: Array[Int, 100];
+                _sort(){
+                    Foreach(j In i .. 100){
+                        If(a[i] > a[j]){
+                            Var temp: Int = a[i];
+                            a[i] = a[j];
+                            a[j] = temp;
+                        }
+                    }
+                    Foreach(i In 1 .. 100){
+                        Out.print(a[i]);
+                    }
+                }
+            }
+            

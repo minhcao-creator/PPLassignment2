@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Ab),[MethodDecl(Id(main),Instance,[param(Id(Minh),StringType)],Block([AssignStmt(Id(abc),StringLit(how to do?))])),AttributeDecl(Instance,ConstDecl(Id(Minh),BoolType,BooleanLit(False))),MethodDecl(Id(main),Instance,[],Block([AssignStmt(Id(abc),FieldAccess(Id(cbd),Id(bcd)))])),AttributeDecl(Instance,VarDecl(Id(b),BoolType,BooleanLit(False)))])])

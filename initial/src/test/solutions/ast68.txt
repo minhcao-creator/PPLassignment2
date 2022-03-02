@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Ab),[MethodDecl(Id(main),Instance,[],Block([If(Id(aaaaa),Block([ConstDecl(Id(n),FloatType,Id(c))]),Block([ConstDecl(Id(n),FloatType,Id(c))]))]))])])

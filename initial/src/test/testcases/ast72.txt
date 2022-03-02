@@ -1,0 +1,9 @@
+
+            Class Pro {
+                Var a:Int = 1;
+                Var b:Float = 1.5;
+                draw() {
+                    Var c:Int;
+                    c = Self.a;
+                }
+            }

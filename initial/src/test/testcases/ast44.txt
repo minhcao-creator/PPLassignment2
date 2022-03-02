@@ -1,0 +1,17 @@
+
+        Class QuickSort
+        {
+            quicksort(start, end: Array[Int, 100])
+            {
+                Val size: Int = end - start;
+                Var part: Partition;
+                If(size >= 1)
+                {
+                    Var i: Int = part.partition(start, end) - start;
+                    Out.Print(i +. " ");
+                    QuickSort.quicksort(start, start + i);
+                    QuickSort.quicksort(start + i + 1, end);
+                }
+            }
+        }
+                

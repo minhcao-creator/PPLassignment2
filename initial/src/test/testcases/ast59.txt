@@ -1,0 +1,10 @@
+
+        Class Shape {}
+        Class Polygon : Shape {
+            Var $a:Int = 1;
+            draw() {
+                Var c:Float = New Shape() + 1 + 2;
+                c = b;
+            }
+        }
+        

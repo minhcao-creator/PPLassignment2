@@ -1,0 +1,7 @@
+ 
+            Class Ab {
+                _func(_f:function){
+                    Return;
+                }
+            }
+            

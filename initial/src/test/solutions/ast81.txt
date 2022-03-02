@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),Id(Parent),[MethodDecl(Id(main),Instance,[param(Id(minh),StringType)],Block([Return(BooleanLit(False))]))]),ClassDecl(Id(B),Id(Program),[MethodDecl(Id(main),Instance,[],Block([Call(NullLiteral(),Id(c),[Self(),FloatLit(10000.0)]),Call(FloatLit(10.0),Id(c),[NullLiteral(),[IntLit(1),BooleanLit(False)]])]))])])

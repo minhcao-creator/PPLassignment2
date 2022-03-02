@@ -1,0 +1,11 @@
+ 
+            Class Ab {
+                main(){
+                    If(aaaaa){
+                        Val n:Float = c;
+                    }Else{
+                        Val n:Float = c;
+                    }
+                }
+            }
+            

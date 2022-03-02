@@ -1,0 +1,11 @@
+ 
+        Class Polygon {
+            draw(b:Polygon;d:Int){
+                Foreach(i In "a" .. "b" By 2) {
+                    If (i == "b") {
+                        Continue;
+                    }
+                }
+            }
+        }
+        

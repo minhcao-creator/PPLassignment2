@@ -1,0 +1,4 @@
+ Class Pro3 {
+                    Var a,b: Float = 0x0 , 0b10101;
+                    Val c,d: Float = 0.123e-9878, 1.234;
+                }

@@ -1,0 +1,12 @@
+ 
+            Class Pro {
+                main(a: Int){
+                    If(a==2){
+                        Return 2;
+                    }
+                    Else{
+                        Return a * Program.main(a-1);
+                    }
+                }
+            }
+            

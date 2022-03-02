@@ -1,0 +1,12 @@
+
+        Class B
+        {
+            ## this is a simple function ##
+            func(a,b: Int; d: String)
+            {
+                Var r, s: Int;
+                Var a, b: Array[Int, 5];
+                s = r * r * Self.myPI;
+            }
+        }
+        

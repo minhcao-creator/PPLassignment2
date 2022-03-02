@@ -1,0 +1,6 @@
+Class Program{
+            Var s: String = "Cao" +. "Thi" + "Tuyet" + "Minh";
+            main(){
+                Out.print(Self.s);
+            }
+        }

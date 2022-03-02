@@ -1,0 +1,6 @@
+ Class Pro3 { 
+                    $main() {
+                        a = New b(Null, Self);
+                        b = New c(Array(2,3,4), b&&b, c +. d);
+                    }
+                }

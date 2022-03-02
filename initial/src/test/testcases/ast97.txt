@@ -1,0 +1,8 @@
+
+        Class A{
+            Val a,b,c:Array[Int, 0x111] = 1+1, "Hello World", Self.a();
+            main(){
+                Return;
+            }
+        }
+        

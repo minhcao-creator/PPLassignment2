@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Pro3),[MethodDecl(Id($main),Static,[],Block([Return(Id(a)),AssignStmt(Id(s),BinaryOp(+,BinaryOp(+,Self(),[NullLiteral(),Self(),BinaryOp(==.,Id(a),Id(b))]),NullLiteral())),Return(BinaryOp(+,BinaryOp(+,Self(),[NullLiteral(),Self(),BinaryOp(==.,Id(a),Id(b))]),NullLiteral()))]))])])

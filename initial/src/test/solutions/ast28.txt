@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Pro3),[MethodDecl(Id($main),Static,[],Block([AssignStmt(Id(a),BinaryOp(||,BinaryOp(&&,Id(b),Id(c)),Id(e)))])),MethodDecl(Id(Constructor),Instance,[param(Id(a),ArrayType(5,IntType)),param(Id(b),ArrayType(5,IntType)),param(Id(c),FloatType)],Block([Continue,Break,Return(),Block([])]))])])

@@ -1,0 +1,11 @@
+ Class Pro3 { 
+                    $main() {
+                        a = b && c || e;
+                    }     
+                    Constructor(a,b: Array[Int, 5]; c: Float) {
+                        Continue;
+                        Break;
+                        Return;
+                        {}
+                    }        
+                }

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Polygon),[MethodDecl(Id(draw),Instance,[param(Id(b),ClassType(Id(Polygon))),param(Id(d),IntType)],Block([For(Id(i),StringLit(a),StringLit(b),IntLit(2),Block([If(BinaryOp(==,Id(i),StringLit(b)),Block([Continue]))])])]))])])

@@ -1,0 +1,7 @@
+Class a{
+            main(){
+                Foreach (i In A..Null By a::$b){
+                    Return;
+                }
+            }
+        }

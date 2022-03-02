@@ -1,0 +1,15 @@
+Class Program{
+            main(){
+                i = "" +. "a";
+                If(i ==. "abcdefg"){
+
+                }
+                Elseif(a * b + c / d != e/f - g *h){
+
+                }
+                Else{
+
+                }
+                Return;
+            }
+        }

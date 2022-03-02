@@ -1,0 +1,10 @@
+Class Pro {}
+        Class Pro1 : Pro {
+            Var $num:Int = 0;
+            Var arr:Array[Int,5];
+            $getNumPol() {
+                Return Pro::$num;
+            }
+            draw() {
+            }
+        }

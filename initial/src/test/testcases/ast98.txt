@@ -1,0 +1,7 @@
+ 
+        Class Parent{
+            Destructor(){
+                Val a:Int;
+            }
+        }
+        

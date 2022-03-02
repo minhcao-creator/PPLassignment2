@@ -1,0 +1,17 @@
+
+        Class A{
+            Val a,b,c:String;
+            main(){
+            }
+
+            getShape(a,b,c:String; c,d:Int){
+            }
+        }
+
+        Class B:Parent{
+            Constructor(a,c:String; d:Float){
+                Out.printLn("Hello");
+            }
+
+        }
+        

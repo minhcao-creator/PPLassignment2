@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Pro),[]),ClassDecl(Id(Pro1),Id(Pro),[AttributeDecl(Static,VarDecl(Id($num),IntType,IntLit(0))),AttributeDecl(Instance,VarDecl(Id(arr),ArrayType(5,IntType))),MethodDecl(Id($getNumPol),Static,[],Block([Return(FieldAccess(Id(Pro),Id($num)))])),MethodDecl(Id(draw),Instance,[],Block([]))])])

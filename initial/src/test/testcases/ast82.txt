@@ -1,0 +1,7 @@
+Class Progran{
+            main(){
+                Var a:Int =  False ==. True + "something" || Array(Self, "a thing") * 0765 % !0xFFF;
+            }
+        }
+
+        

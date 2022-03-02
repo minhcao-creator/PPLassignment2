@@ -1,0 +1,11 @@
+Class Math{
+            factor(n: Int){
+                If(n > 1){
+                    Return Math.factorial(n - 1) * n;
+                }
+                Else{
+                    Return 1;
+                }
+            }
+        }
+        

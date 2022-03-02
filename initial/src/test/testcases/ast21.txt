@@ -1,0 +1,5 @@
+ Class Pro3 { 
+                    main() {
+                        Var a: Array[Int, 0b10101] = Array(0x1,1.2,a);
+                    }             
+                }

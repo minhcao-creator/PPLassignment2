@@ -1,0 +1,6 @@
+ Class Pro3 { 
+                    main() {
+                        Val c: String = 0.123e-9878;
+                        {}
+                    }             
+                }

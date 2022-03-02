@@ -1,0 +1,6 @@
+   Class a{
+            Constructor(b:a; c:a){
+                a::$b = b.a;
+            }
+        }
+        

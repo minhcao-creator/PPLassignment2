@@ -1,0 +1,7 @@
+Class Program{
+            Var x: Int = ((((a[1])))[2]);
+            t(){
+                Foreach(i In ((a[1]))[2] + (a)[2] .. 6){}
+                Return ((((a[1])))[2]) + 456;
+            }
+        }

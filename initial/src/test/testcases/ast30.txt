@@ -1,0 +1,9 @@
+ Class Pro3 { 
+                    $main() {}
+                    Destructor() {
+                        Break;
+                        Continue;
+                        Return;
+                        {}
+                    }   
+                }

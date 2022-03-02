@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Pro3),[AttributeDecl(Instance,ConstDecl(Id(c),StringType,FloatLit(0.0))),MethodDecl(Id(Constructor),Instance,[param(Id(a),BoolType)],Block([])),MethodDecl(Id(Destructor),Instance,[],Block([]))])])

@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[]),ClassDecl(Id(Polygon),Id(Shape),[]),ClassDecl(Id(Program),[MethodDecl(Id(main),Static,[],Block([]))])])

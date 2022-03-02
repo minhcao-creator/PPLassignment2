@@ -1,0 +1,4 @@
+ Class Pro3 {
+                    Var a: Array[Int, 5] = Array(1,2,3); 
+                    main() {}             
+                }

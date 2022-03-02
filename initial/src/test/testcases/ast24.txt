@@ -1,0 +1,6 @@
+ Class Pro3 { 
+                    main() {
+                        a = b + c;
+                        Return;
+                    }             
+                }

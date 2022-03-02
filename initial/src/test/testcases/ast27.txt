@@ -1,0 +1,7 @@
+ Class Pro3 { 
+                    $main(a,b: Array[Array[Array[Boolean, 02], 0xA1], 0b101]; c:Float) {
+                        Continue;
+                        Break;
+                        Return;
+                    }             
+                }

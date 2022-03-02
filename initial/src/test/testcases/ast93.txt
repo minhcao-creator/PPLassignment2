@@ -1,0 +1,5 @@
+
+        Class A{
+            Val a: Int = a[1+1][Self.a][1+1];
+        }
+        

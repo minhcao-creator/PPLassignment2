@@ -1,0 +1,13 @@
+
+        Class a{
+            Constructor(a,b:Array[Boolean, 3]){
+                a = b;
+            }
+
+            Constructor(){
+                Foreach(i In a::$c..1e5 By (a.c())){
+                    Break;
+                }
+            }
+        }
+        

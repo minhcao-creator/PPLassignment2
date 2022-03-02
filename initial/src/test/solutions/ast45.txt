@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(P),[MethodDecl(Id(print),Instance,[],Block([Call(Id(Out),Id(Print),[StringLit(This is not a simple \b string)]),Call(Id(Out),Id(Print),[StringLit(This is a \f simple string)])]))])])

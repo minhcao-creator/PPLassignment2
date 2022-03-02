@@ -1,0 +1,8 @@
+ Class Pro3 { 
+                    Val str: a = Null;
+                    Var $b, c: String = Self, Array(Null, Self, a && b);
+                    main() {
+                        a = b + c;
+                        Return;
+                    }             
+                }

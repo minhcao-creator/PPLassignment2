@@ -1,0 +1,14 @@
+ Class Pro { 
+                    $main() {
+                        If (a) {
+                            Foreach (a In b .. c By 2) {
+                                Return;
+                            }
+                        }
+                        Elseif (b) {
+                            Foreach (a In b .. c By !a + c) {
+                                Return;
+                            }
+                        } 
+                    }
+                }

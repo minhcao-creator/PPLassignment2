@@ -1,0 +1,12 @@
+Class Program: Parent{
+            main(minh: String){
+                Return False;
+            }
+        }
+        Class B:Program{
+            main(){
+                Null.c(Self, 1e4);
+                1e1.c(Null, Array(1,False));
+            }
+        }
+        

@@ -1,0 +1,10 @@
+
+        Class P
+        {
+            print()
+            {
+                Out.Print("This is not a simple \b string");
+                Out.Print("This is a \f simple string");
+            }
+        }
+        

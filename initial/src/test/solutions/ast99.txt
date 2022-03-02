@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Program),[MethodDecl(Id(main),Static,[],Block([Block([Block([AssignStmt(Id(c),[NullLiteral(),NullLiteral(),NullLiteral()]),AssignStmt(Id(d),[])])]),Block([Return(),Continue,Break])]))])])
